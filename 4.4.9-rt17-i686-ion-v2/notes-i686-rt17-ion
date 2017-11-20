@@ -1,0 +1,6 @@
+v2:
+* Added LIRC and Soundgraph iMon
+v1:
+* Enabled NVidia ION support
+* Enabled Atheros ath9k support
+* Enabled ZyXEL ZD1201 USB WiFi support

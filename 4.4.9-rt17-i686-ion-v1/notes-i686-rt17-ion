@@ -1,0 +1,4 @@
+* Enabled NVidia ION support
+* Enabled Soundgraph ION controller
+* Enabled Atheros ath9k support
+* Enabled ZyXEL ZD1201 USB WiFi support
